@@ -1,1 +1,1 @@
-FROM --platform=linux/arm64/v8 redis:latest 
+FROM --platform=linux/arm64 redis:latest 
